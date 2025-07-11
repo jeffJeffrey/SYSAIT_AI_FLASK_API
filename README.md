@@ -107,7 +107,7 @@ Content-Type: application/json
 
 ## Licence
 
-MIT (ou à préciser selon ton projet)
+MIT   Sysait Ai
 
 ---
 
